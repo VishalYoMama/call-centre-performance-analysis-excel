@@ -25,4 +25,4 @@ Excel dashboard analyzing call centre performance metrics including customer sat
 | `data.csv` | Raw call centre data exported as CSV |
 
 ## Dashboard Preview
-![Dashboard](images/dashboard.png)
+https://github.com/VishalYoMama/call-centre-performance-analysis-excel/blob/main/dashboard_ss.png
